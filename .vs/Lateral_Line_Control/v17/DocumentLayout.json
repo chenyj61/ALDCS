@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cheng\\Desktop\\Lateral_Line_Control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D849A756-0B0F-4B32-AAAC-0118B1277DF4}|Lateral_Line_Control\\Lateral_Line_Control.csproj|c:\\users\\cheng\\desktop\\lateral_line_control\\lateral_line_control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D849A756-0B0F-4B32-AAAC-0118B1277DF4}|Lateral_Line_Control\\Lateral_Line_Control.csproj|solutionrelative:lateral_line_control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D849A756-0B0F-4B32-AAAC-0118B1277DF4}|Lateral_Line_Control\\Lateral_Line_Control.csproj|C:\\Users\\cheng\\Desktop\\Lateral_Line_Control\\lateral_line_control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D849A756-0B0F-4B32-AAAC-0118B1277DF4}|Lateral_Line_Control\\Lateral_Line_Control.csproj|solutionrelative:lateral_line_control\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lateral_Line_Control||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lateral_Line_Control",
+              "DocumentMoniker": "C:\\Users\\cheng\\Desktop\\Lateral_Line_Control\\Lateral_Line_Control\\Lateral_Line_Control.csproj",
+              "RelativeDocumentMoniker": "Lateral_Line_Control\\Lateral_Line_Control.csproj",
+              "ToolTip": "C:\\Users\\cheng\\Desktop\\Lateral_Line_Control\\Lateral_Line_Control\\Lateral_Line_Control.csproj",
+              "RelativeToolTip": "Lateral_Line_Control\\Lateral_Line_Control.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T02:54:12.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\cheng\\Desktop\\Lateral_Line_Control\\Lateral_Line_Control\\Form1.cs",
+              "RelativeDocumentMoniker": "Lateral_Line_Control\\Form1.cs",
+              "ToolTip": "C:\\Users\\cheng\\Desktop\\Lateral_Line_Control\\Lateral_Line_Control\\Form1.cs",
+              "RelativeToolTip": "Lateral_Line_Control\\Form1.cs",
+              "ViewState": "AgIAANgAAAAAAAAAAAAvwOUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T22:13:57.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "C:\\Users\\cheng\\Desktop\\Lateral_Line_Control\\Lateral_Line_Control\\Form1.cs",
+              "RelativeDocumentMoniker": "Lateral_Line_Control\\Form1.cs",
+              "ToolTip": "E:\\Work\\10_\u535A\u58EB\u5B66\u4E1A\u8D44\u6599\\04_\u5B9E\u9A8C\u8BBE\u8BA1\\\u8F6F\u4EF6\u8BBE\u8BA1\\Lateral_Line_Control\\Lateral_Line_Control\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T21:36:34.732Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
